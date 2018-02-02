@@ -23,11 +23,7 @@ public class InfoActivity extends AppCompatActivity {
 
 
     }
-
-    public void createMapIntent(View view) {
-
-
-    }
+    
     // ***
     // TODO - Task 2 - Launch the Google Maps Activity
     // ***
